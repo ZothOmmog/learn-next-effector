@@ -1,2 +1,2 @@
-# learn-next-effector
-Created with CodeSandbox
+# Effector with NextJS example
+
